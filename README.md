@@ -1,6 +1,6 @@
 # Employee Status Classification
 
-This project classifies employees into different categories based on their years of experience, performance score, and whether they are team players.
+This project classifies employees into different categories based on their years of experience, performance score, and wether they are team players.
 
 ## Inputs
 - experience_years (numeric): The number of years the employee has worked.
